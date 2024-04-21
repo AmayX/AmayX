@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amay</h1>
-<h3 align="center">I am a passionate Data Scientist from India.</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I+am+a+passionate+Data+Scientist.;I+am+a+Generative+AI+Enthusiast.;I+am+a+ML+Engineer." alt="Amay_Intro_SVG" /></a></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amayx&label=Profile%20views&color=0e75b6&style=plastic" alt="amayx" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **amaychandravanshi2003@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1s0_E28J07sBNUBzCkM0_8SzJfhyaxLSM/view?usp=drive_link)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1s0_E28J07sBNUBzCkM0_8SzJfhyaxLSM/view?usp=drive_link)
 
 - ⚡ Joke for you: **I was surprised when my niece said she learned R at school yesterday, and then I remembered she's 4 and she meant the letter.**
 
