@@ -1,3 +1,4 @@
+<image src="https://t3.ftcdn.net/jpg/05/52/74/84/360_F_552748421_twUz7OpbxVm7Zr976kXmMlN5VxKF5BjJ.jpg" alt="DL_Image">
 <h1 align="center">Hi 👋, I'm Amay</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I+am+a+passionate+Data+Scientist.;I+am+a+Generative+AI+Enthusiast.;I+am+a+ML+Engineer." alt="Amay_Intro_SVG" /></a></a></h3>
 
@@ -20,6 +21,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amay-chandravanshi-803465224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amay-chandravanshi-803465224/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/amaychandravanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amaychandravanshi" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools I have worked with:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
